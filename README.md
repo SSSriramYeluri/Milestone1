@@ -1,3 +1,7 @@
+Soma Sekhara Sriram Yeluri-sy489
+Lokesh Mekala
+
+
 Installation and Login of cvat:
 Install WSL2
 Download and install Docker Desktop for Windows.
